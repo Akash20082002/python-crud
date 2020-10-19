@@ -1,3 +1,11 @@
 my first project ssssss
 
-ghjfhyjtyut
+ghjfhyjtyu
+
+
+a=10
+b="john"
+
+print(a)
+print(b)
+
